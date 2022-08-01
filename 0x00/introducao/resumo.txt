@@ -1,0 +1,6 @@
+	Resumo Microsserviços
+
+	Microsserviços são um tipo de arquitetura de software que consiste em serviços independentes e autossuficientes, baseando sua comunicação por meio de APIs. Os microsserviços prometem serviços mais flexiveis e de fácil manutenção, fazendo com que o tempo de introdução de novos recursos seja mais curto.
+	Muito diferente da arquitetura monolítica, em que todos os processos são altamente acoplados e são criados em um único bloco, trabalhando juntos para realizar sua função. Antigamente era a arquitetura mais usada, contudo tem sido abandonada pelas vantagens da arquitetura de microsserviços.
+	Na monolítica para alterar um serviço podem ocorrer alterações em outras features dependentes, tornando assim a manutenção mais trabalhosa e pouco aplicável na metodologia ágil. Dentro das vantagens temos a escalabilidade, que no caso de uma aplicação ser chamada muitas vezes o estresse sobre ela é menor como um microsserviço do que uma monolítica. Os microsserviços podem ser escritos em diferentes linguagens de programação, podendo adequar o mais adequado para a finalidade de cada função. Com isso possibilita também que várias equipes trabalhem em serviços diferentes dentro do mesmo projeto.
+Com isso a arquitetura de microsserviços torna-se a melhor alternativa para metodologias ágeis.
